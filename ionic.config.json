@@ -1,0 +1,7 @@
+{
+  "name": "hellomir",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
